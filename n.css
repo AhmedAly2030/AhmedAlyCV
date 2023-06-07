@@ -1,0 +1,12 @@
+html{background: rgb(187, 174, 225);}
+hr{background: red;}
+h1{background:rgb(112, 8, 141) ;text-align: center;}
+h2{background: greenyellow;}
+h3{background: rgb(135, 119, 226);}
+h4{background: white;}
+h1{color: aliceblue;}
+li{font-size: x-large;}
+.page{background:rgb(207, 75, 167) ;text-align: center;}
+h2[cv="2"]{text-align: center;}
+p{font-size: 23px;}
+
